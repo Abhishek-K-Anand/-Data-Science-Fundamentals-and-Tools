@@ -1,6 +1,6 @@
 # Data-Science-Fundamentals-and-Tools
 A complete guide to core Data Science concepts and tools using Python.
- - 👨‍💼[Employee_Management_System(EMS)](./Employee_Management_System%28EMS%29)
+ - 👨‍💼[Employee_Management_System(EMS)](./Employee_Management_System(EMS))
  - 🎲[Basic_Probability_Simulations_Using_Python](./Basic_Probability_Simulations_Using_Python)
  - 📈[Fundamentals_of_Statistics_in_DataScience](./Fundamentals_of_Statistics_in_DataScience)
  - 🧮[NumPy_Assignment](./NumPy_Assignment)
