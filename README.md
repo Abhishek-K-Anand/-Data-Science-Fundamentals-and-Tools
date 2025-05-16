@@ -48,38 +48,32 @@ A hands-on assignment series to understand the core tools in Python for Data Sci
 
 🧮 NumPy_Assignment
 
-Objective:    Learn array creation, manipulation, and basic statistical operations using NumPy.
-Key Tasks:
-
-1D and 2D array operations (sum, mean, std, transpose, slicing).
-
-Element-wise and matrix operations (addition, multiplication, dot product).
+   Objective:  Learn array creation, manipulation, and basic statistical operations using NumPy.
+   
+   Key Tasks:
+               - 1D and 2D array operations (sum, mean, std, transpose, slicing).
+               - Element-wise and matrix operations (addition, multiplication, dot product).
  
 
 🧾 Pandas_Assignment
 
-Objective:    Explore dataframes, group operations, filtering, and saving data using Pandas.
-Key Tasks:
+   Objective:   Explore dataframes, group operations, filtering, and saving data using Pandas.
 
-Creating DataFrames from dictionaries.
-
-Filtering by conditions, calculating aggregates.
-
-Adding columns, grouping, sorting, and exporting to CSV.
+   Key Tasks:
+              - Creating DataFrames from dictionaries.
+              - Filtering by conditions, calculating aggregates.
+              - Adding columns, grouping, sorting, and exporting to CSV.
 
 
 📊 Matplotlib_Assignment
 
-Objective:   Practice data visualization through line plots, bar charts, pie charts, and histograms.
-Key Tasks:
-
-Line plot customization.
-
-Bar chart for student scores.
-
-Pie chart with region-wise revenue.
-
-Histogram for random data distribution.
+   Objective:   Practice data visualization through line plots, bar charts, pie charts, and histograms.
+ 
+   Key Tasks:
+              - Line plot customization.
+              - Bar chart for student scores.
+              - Pie chart with region-wise revenue.
+              - Histogram for random data distribution.
 
 📎 Google Drive Link: https://drive.google.com/file/d/1btQSUTjfesr_Zpdu2H0VolqNbBZmB03T/view?usp=sharing
 
