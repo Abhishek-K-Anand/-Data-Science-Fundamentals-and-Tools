@@ -3,9 +3,9 @@ A complete guide to core Data Science concepts and tools using Python.
  - 👨‍💼[Employee_Management_System(EMS)](./Employee_Management_System(EMS))
  - 🎲[Basic_Probability_Simulations_Using_Python](./Basic_Probability_Simulations_Using_Python)
  - 📈[Fundamentals_of_Statistics_in_DataScience](./Fundamentals_of_Statistics_in_DataScience)
- - 🧮[NumPy_Assignment](./NumPy_Assignment)
- - 🧾[Pandas_Assignment](./Pandas_Assignment)
- - 📊[Matplotlib_Assignment](./Matplotlib_Assignment)
+ - 🧮[NumPy_Assignment](./Advanced_Python_Tools_DataScience)
+ - 🧾[Pandas_Assignment](./Advanced_Python_Tools_DataScience)
+ - 📊[Matplotlib_Assignment](./Advanced_Python_Tools_DataScience)
  - 📐[Matrix_Vector_basics_DataScience](./Matrix_Vector_basics_DataScience)
 
 # 📁 Employee Management System (EMS)  
